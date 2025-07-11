@@ -1,4 +1,4 @@
-### ✅ Astitva Trust — NGO Website
+# ✅ Astitva Trust — NGO Website
 🌟 A fully responsive, modern website for Astitva NGO — designed to spread awareness, showcase milestones, and boost donations for community welfare.
 
 ## 📌 Live Demo
@@ -15,8 +15,8 @@
 8. License
 9. Contact
 
-### 📚 About
-# Astitva Trust is an NGO dedicated to uplifting marginalized communities through education, health awareness, and social empowerment.
+## 📚 About
+### Astitva Trust is an NGO dedicated to uplifting marginalized communities through education, health awareness, and social empowerment.
 
 This website:
 
@@ -28,7 +28,7 @@ Provides a secure online donation system.
 
 Engages visitors through responsive design and intuitive navigation.
 
-### ✨ Features
+## ✨ Features
 ✅ Fully responsive design (mobile-first).
 ✅ Clean UI with modern CSS styling.
 ✅ Dynamic sections for mission, vision, and team.
@@ -37,19 +37,19 @@ Engages visitors through responsive design and intuitive navigation.
 ✅ PHP backend for form handling.
 ✅ Deployed on free hosting.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 1. HTML5
 2. CSS3
 3. JavaScript
 4. PHP (form handling)
 5. InfinityFree (free hosting)
 
-### 📸 Screenshots
+## 📸 Screenshots
 Home Page	Donation Page	Contact Page
 	(Add donation screenshot if available)	(Add contact screenshot if available)
 
-### ⚙️ Getting Started
-# Clone the repo:
+## ⚙️ Getting Started
+### Clone the repo:
 ```bash
 Copy
 Edit
@@ -67,21 +67,21 @@ Place files inside htdocs (for XAMPP).
 
 Visit http://localhost/Astitva-Trust.
 
-### 🚀 Usage
+## 🚀 Usage
 Modify content: Edit HTML files (index.html, about.html, etc.) to update text/images.
 
 Edit forms: Update contact.php or donation logic as needed.
 
 Deploy: Use any free host like InfinityFree, Netlify (for static) or your own domain.
 
-### 🤝 Contributing
+## 🤝 Contributing
 Got improvements?
 
 Fork the repo.
 Make your changes.
 Open a Pull Request.
 
-### 📄 License
+## 📄 License
 This project is open-source — feel free to fork and adapt for other NGOs.
 
 📬 Contact
