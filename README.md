@@ -1,7 +1,7 @@
 # ✅ Astitva Trust — NGO Website
 🌟 A fully responsive, modern website for Astitva NGO — designed to spread awareness, showcase milestones, and boost donations for community welfare.
 
-## 📌 Live Demo {1}
+## 📌 Live Demo {#1}
 🌐 [Visit Live Site](https://aastitva-demo.infinityfreeapp.com)
 
 ### 📖 Table of Contents
